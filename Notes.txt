@@ -1,0 +1,10 @@
+What is "the Cloud"?
+"The Cloud" simply means the internet-based storage and computing resources that exist on remote servers — not on your own physical machine. When you save a photo to Google Photos or stream a movie on Netflix, you're using the cloud.
+
+What is Cloud Computing?
+Cloud Computing means using computing resources (servers, storage, databases, software) over the internet, on-demand, and paying only for what you use — instead of buying and maintaining physical hardware.
+Think of it like electricity: you don't build your own power plant, you just plug in and pay for what you use.
+
+IaaS — Infrastructure as a Service
+Simple definition: IaaS means renting raw IT infrastructure — servers, storage, networking, and virtualization — over the internet from a cloud provider. You don't buy or maintain any physical hardware. You just provision what you need and pay per use.
+Best analogy: Think of it like renting a plot of land. The provider gives you the land (servers, network, storage). But YOU have to build your own house on it — install the OS, set up middleware, deploy your application. Full control, full responsibility above the hardware level.
